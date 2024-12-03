@@ -1,5 +1,7 @@
 # Affinity - An Android Dating App
 
+![datingicon](https://github.com/user-attachments/assets/fbce5bb3-aaf0-40e7-be64-8042490a1c99)
+
 ## Overview
 Affinity is an Android Dating App designed to connect people based on mutual interests. The app is developed using Android Jetpack Compose for a modern and attractive UI and leverages various Firebase services for backend functionalities.
 
@@ -41,4 +43,6 @@ Affinity is an Android Dating App designed to connect people based on mutual int
 
 ## Attractive UI
 - The app features an attractive and intuitive user interface designed with Jetpack Compose, ensuring a seamless user experience.
+
+
 
