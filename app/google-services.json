@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382566356085",
+    "project_id": "affinity-dc44c",
+    "storage_bucket": "affinity-dc44c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382566356085:android:9e90952433f601b709943c",
+        "android_client_info": {
+          "package_name": "com.pratyushvkp.affinity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADxSOXxNqKedB8zDS8s0gb2ZIb4x4dJ-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
